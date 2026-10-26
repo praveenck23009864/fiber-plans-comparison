@@ -1,0 +1,5 @@
+browserbase
+playwright
+python-dotenv
+fastapi
+uvicorn

@@ -1,0 +1,23 @@
+.env*
+!.env.example
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.db
+*.db-*
+*.log
+*diagnostic*
+*results*.txt
+*results*.png
+*failure*.txt
+*failure*.png
+*inspection*.json
+*_audit.txt
+*extracted*.json
+all_plan_details.json
+browser-profiles/
+.runtime/
+
+# Generated TypeScript cache
+*.tsbuildinfo
